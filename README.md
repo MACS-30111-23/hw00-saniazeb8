@@ -11,6 +11,7 @@ Title: *Brief Biography*
 Hi, My name is Sania Zeb. I am from pakistan, and I am an **economist** by profession. I have a dynamic experience in research and development industry especially considering the public sector of Pakistan. I aim to polish my computational skills to empower myself with cutting edge technology in social sciences which will enable me to take on the complex macroeconomic issues. 
 
 #Projects
+
 Some of my *key research interests* are listed as follows:
 1. Income Inequality 
 2. Political Economy and It's Impact on Macroeconomic Fundamentals 
