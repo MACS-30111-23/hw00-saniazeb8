@@ -1,15 +1,17 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
 # hw01
 Author: **Sania Zeb**
+
 Date: 26 September 2023
+
 Title: *Brief Biography*
 
 #About Me
 
-Hi, My name is Sania Zeb. I am from pakistan, and I am an economist by profession. I have a dynamic experience in research and development industry especially considering the public sector of Pakistan. I aim to polish my computational skills to empower myself with cutting edge technology in social sciences which will enable me to take on the complex macroeconomic issues. 
+Hi, My name is Sania Zeb. I am from pakistan, and I am an **economist** by profession. I have a dynamic experience in research and development industry especially considering the public sector of Pakistan. I aim to polish my computational skills to empower myself with cutting edge technology in social sciences which will enable me to take on the complex macroeconomic issues. 
 
 #Projects
-Some of my key interest areas are listed as follows:
+Some of my *key research interests* are listed as follows:
 1. Income Inequality 
 2. Political Economy and It's Impact on Macroeconomic Fundamentals 
 3. Incidence of Taxes on Economic Agents
